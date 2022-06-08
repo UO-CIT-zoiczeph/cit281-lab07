@@ -1,1 +1,1 @@
-# cit281-lab07
+# Lab 7 : Intro to GitHub
